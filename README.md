@@ -40,9 +40,14 @@ IF(Sales_Data[Customer Ratings] >= 4, "Good",
 🛠️ Skills Practised
 
 Data cleaning and transformation in Power Query
+
 Creating a custom calendar table
+
 Building table relationships in the data model
+
 Writing DAX measures and calculated columns
+
 Time intelligence (MTD, Same Period Last Year)
+
 Dashboard design: KPI cards, charts, map, slicers and navigation
 Editing visual interactions.
