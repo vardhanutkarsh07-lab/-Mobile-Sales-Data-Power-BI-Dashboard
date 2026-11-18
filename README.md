@@ -1,4 +1,4 @@
-📱 Mobile Sales Data – Power BI Dashboard
+**📱 Mobile Sales Data – Power BI Dashboard**
 
 An interactive Power BI dashboard that analyses mobile phone sales by brand, model, city, payment method and customer ratings, with time-intelligence reports (MTD and Same Period Last Year).
 
